@@ -4,7 +4,7 @@ Me chamo Guilherme Freitas, Numa segunda tentativa de ingressar no mercado de te
 
 - 🚀 Atualmente estou aprendendo: <strong>phytn, C++ </strong> 
 - 💬 Pergunte-me sobre: <strong> esportes </strong>
-- 📣 Nós podemos falar em: <strong> portugues meixmo</strong>
+- 📣 Nós podemos falar em: <strong> português meixmo</strong>
 
 <div align="center">
 
