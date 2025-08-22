@@ -1,6 +1,6 @@
 # Guilherme Freitas <img src="https://img1.picmix.com/output/stamp/normal/1/0/4/0/1970401_b70f6.gif" width="100px">
 
-Me chamo <strong>Guilherme Freitas, Numa segunda tentativa de ingressar no mercado de tecnologias, decidi cursar no senac para desenvolver minhas habilidades em analise de dados 👨🏻‍💻 
+Me chamo Guilherme Freitas, Numa segunda tentativa de ingressar no mercado de tecnologias, decidi cursar no senac para desenvolver minhas habilidades em analise de dados 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>phytn, C++ </strong> 
 - 💬 Pergunte-me sobre: <strong> esportes </strong>
